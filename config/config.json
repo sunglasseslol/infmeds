@@ -1,7 +1,15 @@
 {
-    "infStims" : true,
-    "infMedkits" : true,
-    "infMedical" : true,
+    "changeStims" : true,
+    "changeMedkits" : true,
+    "changeMedical" : true,
+
+    "infStims" : false,
+    "infMedkits" : false,
+    "infMedical" : false,
+
+    "stimUses" : 999,
+    "medkitHp" : 100000,
+    "medicalUses" : 999,
 
     "logItemsWithModifiedUses" : false,
     
