@@ -1,0 +1,17 @@
+{
+    "infStims" : true,
+    "infMedkits" : true,
+    "infMedical" : true,
+
+    "logItemsWithModifiedUses" : false,
+    
+    "blacklisted_stims" : [
+
+    ],
+    "blacklisted_medkits" : [
+        "5755356824597772cb798962"
+    ],
+    "blacklisted_medical" : [
+
+    ]
+}
